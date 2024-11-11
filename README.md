@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premkumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="premkumar2002" /> </p>
 
 
-- 👨‍💻 Visit My portfolio to know more about me [(https://premkumardev909.netlify.app/))
+- 👨‍💻 Visit My portfolio to know more about me https://premkumardev909.netlify.app/
 
 - 📫 How to reach me **lingutlapremkumar2694@gmail.com**
 
