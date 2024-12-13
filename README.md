@@ -140,13 +140,32 @@
 
 <br clear="both">
 
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://medium.com/@lingutlapremkumar2694/studying-for-a-masters-degree-in-australia-a-comprehensive-guide-b24d9572b079">Studying for a Master’s Degree in Australia: A Comprehensive Guide</a></li>
+<li><a target="_blank" href="https://medium.com/@lingutlapremkumar2694/the-journey-to-mastery-my-road-to-becoming-a-c-expert-f7c65b7eadb">The Journey to Mastery: My Road to Becoming a C++ Expert</a></li>
+<h2>⚡️ Where to find me</h2>
+  
 <br clear="both">
 
 
 <div align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?user=31obuj6r5e2tagq5qisf5iy47mva&count=5)" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31obuj6r5e2tagq5qisf5iy47mva&count=5" alt="Spotify recently played"  />
 </div>
 
 ###
 
+<br clear="both">
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/buymeacoffee.com/premkumard9">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+<p>
+<a href="https://www.ko-fi.com/ko-fi.com/premkumar56570">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
+</a>
+</p>
+</p>
 ###
