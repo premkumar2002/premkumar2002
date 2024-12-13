@@ -121,13 +121,18 @@
   <a href="https://x.com/creator61519282" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
+  <a href="https://www.codechef.com/users/https://www.codechef.com/users/prem209kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prem209kumar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/prem209kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prem209kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prem9090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u4cse20340/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/lingutlapremkumar2694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lingutlapremkumar2694" height="30" width="40" /></a>
+</p>
+
 </div>
 
 ###
 
 <br clear="both">
 
-![GitHub Contributions Grid](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premkumar2002&theme=github)
 
 
 ###
