@@ -127,19 +127,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/premkumar2002/premkumar2002/output/snake.svg" alt="Snake animation" />
+![GitHub Contributions Grid](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premkumar2002&theme=github)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/premkumar2002/count.svg" alt="Profile Counter" />
-</div>
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Prem">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31obuj6r5e2tagq5qisf5iy47mva" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
