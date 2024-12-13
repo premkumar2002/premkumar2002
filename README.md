@@ -129,11 +129,10 @@
 
 <img src="https://raw.githubusercontent.com/premkumar2002/premkumar2002/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/premkumar2002/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/premkumar2002/count.svg" alt="Profile Counter" />
 </div>
+
 
 ###
 
