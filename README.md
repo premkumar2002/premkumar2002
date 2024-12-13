@@ -144,16 +144,7 @@
 <ul>
 <li><a target="_blank" href="https://medium.com/@lingutlapremkumar2694/studying-for-a-masters-degree-in-australia-a-comprehensive-guide-b24d9572b079">Studying for a Master’s Degree in Australia: A Comprehensive Guide</a></li>
 <li><a target="_blank" href="https://medium.com/@lingutlapremkumar2694/the-journey-to-mastery-my-road-to-becoming-a-c-expert-f7c65b7eadb">The Journey to Mastery: My Road to Becoming a C++ Expert</a></li>
-<h2>⚡️ Where to find me</h2>
-  
-<br clear="both">
 
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31obuj6r5e2tagq5qisf5iy47mva&count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <br clear="both">
 <h2>❤️ Support Me</h2>
@@ -168,4 +159,15 @@
 </a>
 </p>
 </p>
-###
+
+<br clear="both">
+
+<h2>🎧 recently Played</h2>
+  
+<br clear="both">
+
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31obuj6r5e2tagq5qisf5iy47mva&count=5" alt="Spotify recently played"  />
+</div>
+
