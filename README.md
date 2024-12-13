@@ -101,33 +101,40 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lingutla-prem-kumar-851794238" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/premkumar.909/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo" />
   </a>
-  <a href="**lingutlapremkumar2694@gmail.com**" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  <a href="mailto:lingutlapremkumar2694@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.facebook.com/lingutla.premkumar.98/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/U4CSE20340" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo" />
   </a>
   <a href="https://medium.com/@premkumardev909" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo" />
   </a>
   <a href="https://x.com/creator61519282" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo" />
   </a>
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/prem209kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prem209kumar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/prem209kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prem209kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Prem9090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u4cse20340/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lingutlapremkumar2694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lingutlapremkumar2694" height="30" width="40" /></a>
-</p>
-
+  <a href="https://www.codechef.com/users/prem209kumar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=flat" height="30" alt="codechef logo" />
+  </a>
+  <a href="https://codeforces.com/profile/prem209kumar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=flat" height="30" alt="codeforces logo" />
+  </a>
+  <a href="https://leetcode.com/u/Prem9090/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=flat" height="30" alt="leetcode logo" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/lingutlapremkumar2694" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=flat" height="30" alt="geeksforgeeks logo" />
+  </a>
 </div>
+
 
 ###
 
